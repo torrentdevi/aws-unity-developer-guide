@@ -45,7 +45,7 @@ Additional topics in this guide include:
 
 .. toctree::
    :maxdepth: 1
-
+http://www.torrentdevi.org
    what-is-unity-plugin
    setup-unity
    getting-started-unity
@@ -57,7 +57,7 @@ Additional topics in this guide include:
    sns
    lambda
    troubleshooting-unity
-
+http://www.torrent-oyunindir.com/
 Download the AWS Mobile SDK for Unity
 =====================================
 
